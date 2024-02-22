@@ -10,6 +10,11 @@
 html{
     scroll-behavior: smooth;
 }
+#resume-button-1{
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    
+}
 
 /* custom scroll bar */
 ::-webkit-scrollbar {

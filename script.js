@@ -70,13 +70,13 @@ $(document).ready(function(){
             }
         }
     });
-    document.getElementById('resume-link-2').addEventListener('click', function() {
+    document.getElementById('resume-button-1').addEventListener('click', function() {
         window.open(
           "https://drive.google.com/file/d/1qFfWPH2GaYqw0xfVYFzXK7BQBpGro0IN/view?usp=sharing"
         );
       });
     
-      document.getElementById('resume-button-1').addEventListener('click', function() {
+      document.getElementById('resume-button-2').addEventListener('click', function() {
         window.open(
           "https://drive.google.com/file/d/1qFfWPH2GaYqw0xfVYFzXK7BQBpGro0IN/view?usp=sharing"
         );
